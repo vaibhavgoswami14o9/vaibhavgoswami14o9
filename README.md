@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vaibhav Goswami, a CSE student passionate about building real-world tech solutions.  <br>📱 Currently developing LawLensAI – a serverless legal assistant powered by AWS and Kotlin.  <br>🚀 I enjoy working on Android apps, backend systems, and exploring cloud technologies.  <br>🌱 Always learning, always coding – let’s build something impactful!<br>
-
+👋 Hi, I'm Vaibhav Goswami, a CSE student passionate about building real-world tech solutions.  <br>💻 Developer | 🎨 Creative Thinker | 🚀 Problem Solver Turning ideas into code and coffee into features.<br> <br>Passionate about AI/ML, Web Development, and IoT.<br> <br>Currently building cool projects in Kotlin, Java, Python, and C++.<br> <br>"If it can be imagined, it can be built."<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/14o9_vaibhav.gsmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/mist-vaibhav-goswami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavgoswami5002.14@gmail.com) 
