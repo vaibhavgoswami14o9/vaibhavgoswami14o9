@@ -4,8 +4,8 @@
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vaibhavgoswami1409.vaibhavgoswami1409&left_color=black&right_color=blue&left_text=visitors)
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhavgoswami1409&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vaibhavgoswami14o9.vaibhavgoswami14o9&left_color=black&right_color=blue&left_text=visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavgoswami14o9&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 <br/>
 
@@ -18,8 +18,8 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav%20Goswami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavgoswami-14vg)
-[![GitHub](https://img.shields.io/badge/GitHub-vaibhavgoswami1409-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavgoswami1409)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/vaibhavgoswami1409)
+[![GitHub](https://img.shields.io/badge/GitHub-vaibhavgoswami14o9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavgoswami14o9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/vaibhavgoswami14o9)
 [![Email](https://img.shields.io/badge/Email-vaibhavgoswami0914-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavgoswami0914@gmail.com)
 
 </div>
@@ -133,13 +133,13 @@ const vaibhav = {
 
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhavgoswami1409&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7&text_color=ffffff&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgoswami1409&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=A855F7&currStreakLabel=00D4FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhavgoswami14o9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7&text_color=ffffff&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgoswami14o9&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=A855F7&currStreakLabel=00D4FF" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgoswami1409&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavgoswami1409&bg_color=0D1117&color=00D4FF&line=A855F7&point=ffffff&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgoswami14o9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavgoswami14o9&bg_color=0D1117&color=00D4FF&line=A855F7&point=ffffff&hide_border=true" />
 
 </div>
 
@@ -150,9 +150,9 @@ const vaibhav = {
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavgoswami1409/vaibhavgoswami1409/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavgoswami1409/vaibhavgoswami1409/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaibhavgoswami1409/vaibhavgoswami1409/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavgoswami14o9/vaibhavgoswami14o9/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavgoswami14o9/vaibhavgoswami14o9/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaibhavgoswami14o9/vaibhavgoswami14o9/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -206,7 +206,7 @@ drwxr-xr-x  things-i-googled-at-3am/
 
 ## 🏆 Achievements
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=vaibhavgoswami1409&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=vaibhavgoswami14o9&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4)
 
 </div>
 
@@ -220,7 +220,7 @@ drwxr-xr-x  things-i-googled-at-3am/
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/vaibhavgoswami1409">
+<a href="https://github.com/vaibhavgoswami14o9">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
